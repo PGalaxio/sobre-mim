@@ -3,3 +3,6 @@
 # *Essa pagina esta em fase de teste e erros são extremamente comuns.*
 
 Aproveita que ta lendo e me segue no Twitter, @GalaxioPoint.
+Ou por aqui mesmo: https://twitter.com/GalaxioPoint
+
+## <3
