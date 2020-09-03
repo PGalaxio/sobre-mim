@@ -2,7 +2,7 @@
 
 # *Essa pagina esta em fase de teste e erros são extremamente comuns.*
 
-Aproveita que ta lendo e me segue no Twitter, @GalaxioPoint.
+Aproveita que ta lendo e me segue no <em>Twitter</em>, @GalaxioPoint.<br>
 Ou por aqui mesmo: https://twitter.com/GalaxioPoint
 
 
