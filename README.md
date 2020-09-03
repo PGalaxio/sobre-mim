@@ -3,7 +3,7 @@
 # *Essa pagina esta em fase de teste e erros são extremamente comuns.*
 
 Aproveita que ta lendo e me segue no <em>Twitter</em>, @GalaxioPoint.<br>
-Ou por aqui mesmo: https://twitter.com/GalaxioPoint
+Ou por aqui mesmo: <a href="https://twitter.com/GalaxioPoint">Twitter!</a>
 
 
 Progresso 1: a pagina esta no ar! se você for me acompanhar, por favor me siga e menciona assim posso saber! vou colocar coisas interessantes aqui :eyes:
